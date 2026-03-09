@@ -11,25 +11,25 @@
 	>
 		<a href={localizeHref('/')} class="flex shrink-0 items-center gap-2">
 			<img src={movifyLogo} alt="Moviefy" class="h-8 w-auto" />
-			<span class="font-sans text-base font-semibold text-foreground">Moviefy</span>
+			<span class="font-serif text-2xl font-semibold text-foreground">Moviefy</span>
 		</a>
 
 		<div class="flex items-center gap-6">
 			<a
 				href={localizeHref('/discover')}
-				class="font-sans text-sm font-medium text-foreground/70 transition-colors duration-150 hover:text-foreground"
+				class="font-serif text-md font-medium text-foreground/70 transition-colors duration-150 hover:text-foreground"
 			>
 				Discover
 			</a>
 			<a
 				href={localizeHref('/lists')}
-				class="font-sans text-sm font-medium text-foreground/70 transition-colors duration-150 hover:text-foreground"
+				class="font-serif text-md font-medium text-foreground/70 transition-colors duration-150 hover:text-foreground"
 			>
 				My Lists
 			</a>
 			<a
 				href={localizeHref('/sign-in')}
-				class="rounded-full border border-white/15 px-4 py-1.5 font-sans text-sm font-medium text-foreground/80 transition-colors duration-150 hover:border-white/30 hover:text-foreground"
+				class="font-serif text-md rounded-full border border-white/15 px-4 py-1.5 font-medium text-foreground/80 transition-colors duration-150 hover:border-white/30 hover:text-foreground"
 			>
 				Sign In
 			</a>
