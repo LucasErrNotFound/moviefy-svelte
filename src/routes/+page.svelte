@@ -64,12 +64,12 @@
 
 	<!-- Right panel: search form -->
 	<div class="flex flex-1 flex-col justify-center px-8 py-16 md:px-12 lg:w-[45%] lg:px-16 lg:py-0">
-		<p class="mb-4 font-sans text-xs font-semibold tracking-widest text-primary uppercase">
+		<p class="mb-4 font-serif text-xs font-semibold tracking-widest text-primary uppercase">
 			Discover · Rate · Share
 		</p>
 
 		<h1
-			class="mb-6 font-sans text-4xl font-bold tracking-tight text-foreground md:text-5xl lg:text-6xl"
+			class="mb-6 font-serif text-4xl font-bold tracking-tight text-foreground md:text-5xl lg:text-6xl"
 			style="line-height: 1.1"
 		>
 			Find your<br />next favorite<br />
