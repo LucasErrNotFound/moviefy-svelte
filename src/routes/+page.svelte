@@ -69,7 +69,7 @@
 		</p>
 
 		<h1
-			class="mb-6 font-serif text-4xl font-bold tracking-tight text-foreground md:text-5xl lg:text-6xl"
+			class="mb-6 font-serif text-5xl font-bold tracking-tight text-foreground md:text-5xl lg:text-7xl"
 			style="line-height: 1.1"
 		>
 			Find your<br />next favorite<br />
