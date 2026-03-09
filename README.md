@@ -91,9 +91,6 @@ bun preview
 # Unit and component tests (Vitest)
 bun test:unit
 
-# End-to-end tests (Playwright)
-bun test:e2e
-
 # Run all tests
 bun test
 ```
